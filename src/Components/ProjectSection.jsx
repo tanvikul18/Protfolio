@@ -53,7 +53,7 @@ const projects=[
          desc: "Find weather of any city through WeatherAPI.",
           image:"/projects/weatherapp.PNG",
          tags:["React","HTML","CSS","WeatherAPI"],
-         demoUrl :"#",
+         demoUrl :"https://wather-app-basic-git-main-tanvikul18s-projects.vercel.app/",
          gitHubUrl:"https://github.com/tanvikul18/watherApp-basic"
     }
 ]
@@ -89,7 +89,7 @@ export default function ProjectSection() {
                                             {" "}
                                             <ExternalLink size={20}/>
                                         </a>
-                                        <a href={project.gitHubUrl} className='text-foreground/80 hover:text-praimary transition-colrs duration-300'>
+                                        <a href={project.gitHubUrl} target="_blank" className='text-foreground/80 hover:text-praimary transition-colrs duration-300'>
                                             <Github size={20}/>
                                         </a>
                                         </div>
