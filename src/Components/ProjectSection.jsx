@@ -17,26 +17,27 @@ const projects=[
          desc: "Finace Platform with AI,Chart,Email Notifcation Mechanism.",
         image:"/projects/fiananced.png",
          tags:["React","TailWindCSs","MongoDB","NodeJs","RazorPay API"],
-         demoUrl :"#",
+         demoUrl :"https://ai-fiance-platform.vercel.app/",
          gitHubUrl:"https://github.com/tanvikul18/AIFiancePlatform"
     },
+     
      {
          id:3,
+         title:"Interview Preparation with AI",
+         desc: "MERN stack project powered with AI for interview preparation",
+          image:"/projects/netflixclone.PNG",
+         tags:["React","Tailwind","Nodejs","ExpressJs,MongoDB"],
+         demoUrl :"https://job-interview-ai-eight.vercel.app/",
+         gitHubUrl:"https://github.com/tanvikul18/netflix-clone"
+    },
+    {
+         id:4,
          title:"Admin Dashboard",
          desc: "Admin Dashboard wirh MERN stack techonologies.",
           image:"/projects/admindasjhboard.PNG",
          tags:["React","CSS","Node Js","MongoDB","Express JS"],
          demoUrl :"#",
          gitHubUrl:"https://github.com/tanvikul18/mern-adminadashboard"
-    },
-     {
-         id:4,
-         title:"Netflix-Clone",
-         desc: "Clone for populat OTT platform Netflix with Firebase/",
-          image:"/projects/netflixclone.PNG",
-         tags:["React","CSS3","Firebase"],
-         demoUrl :"#",
-         gitHubUrl:"https://github.com/tanvikul18/netflix-clone"
     },
      {
          id:5,
