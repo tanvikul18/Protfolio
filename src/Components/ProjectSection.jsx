@@ -8,7 +8,7 @@ const projects=[
          desc: "AI powered Text to Image converter using React, Tailwind ,ClipDrop API with RazorPay Integration.",
          image:"/projects/texttoimage.PNG",
          tags:["React","TailWindCSs","ClipDrop","MongoDB","NodeJs","RazorPay API"],
-         demoUrl :"#",
+         demoUrl :"https://texttotimage-ai.vercel.app/",
          gitHubUrl:"https://github.com/tanvikul18/texttotimage-AI"
         },
     {
@@ -25,7 +25,7 @@ const projects=[
          id:3,
          title:"Interview Preparation with AI",
          desc: "MERN stack project powered with AI for interview preparation",
-          image:"/projects/netflixclone.PNG",
+          image:"/projects/AI-InterviewPrep.PNG",
          tags:["React","Tailwind","Nodejs","ExpressJs,MongoDB"],
          demoUrl :"https://job-interview-ai-eight.vercel.app/",
          gitHubUrl:"https://github.com/tanvikul18/netflix-clone"
